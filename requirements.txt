@@ -1,0 +1,11 @@
+absl-py==1.4.0
+matplotlib==3.7.1
+netCDF4
+numpy==1.24.3
+nvidia-cudnn-cu11==8.6.0.163
+pandas==2.0.1
+polars==0.17.13
+pre-commit
+tensorflow==2.12
+tqdm==4.65.0
+xarray
